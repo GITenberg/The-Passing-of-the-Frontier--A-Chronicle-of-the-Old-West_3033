@@ -1,0 +1,27 @@
+_repo: The-Passing-of-the-Frontier--A-Chronicle-of-the-Old-West_3033
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hough, Emerson
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '1094'
+    url: http://www.gutenberg.org/2009/agents/1094
+    wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
+description: Chronicles of America series; v. 26
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcc 'E151'
+- !lcsh 'West (U.S.) -- History'
+- !lcc 'F590.3'
+- GITenberg
+title: 'The Passing of the Frontier: A Chronicle of the Old West'
+url: http://www.gutenberg.org/ebooks/3033
